@@ -1,13 +1,13 @@
 // app/config/config.js
 export const PORT = 5001;
-export const DATABASE= 'mongodb+srv://mahin:mahin123@cluster0.nv1ip.mongodb.net/'
+export const DATABASE = 'mongodb+srv://mahin:mahin123@cluster0.nv1ip.mongodb.net/';
 export const JWT_KEY="ABC123";
 export const JWT_EXPIRE_TIME = '1h'
 
-export const EMAIL_HOST="mail.teamrabbil.com"
+export const EMAIL_HOST="mail.gmail.com"
 export const EMAIL_PORT=25
 export const EMAIL_SECURITY=false
-export const EMAIL_USER="info@teamrabbil.com"
+export const EMAIL_USER="info@ktl.com"
 export const EMAIL_PASS="~sR4[bhaC[Qs"
 export const EMAIL_UN_AUTH=false
 
